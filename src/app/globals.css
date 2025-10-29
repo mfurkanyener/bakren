@@ -5,9 +5,11 @@
 
 
 @layer base {
-  html,
+  html {
+    @apply bg-mist text-cinder;
+  },
   body {
-    @apply dark:bg-trueGray-900;
+    @apply dark:bg-cinder;
   }
 }
 

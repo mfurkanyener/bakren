@@ -15,6 +15,12 @@ const config: Config = {
     extend: {
       colors: {
         trueGray: colors.neutral,
+        cinder: '#242F32',
+        flame: '#F47E52',
+        solarGold: '#FDB813',
+        mist: '#F3F4F6',
+        sky: '#1E3A8A',
+        eco: '#44AA00',
       },
     },
     fontFamily: {

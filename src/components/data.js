@@ -11,47 +11,47 @@ import benefitOneImg from "../../public/img/benefit-one.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Güneş Enerjisinde Güvenilir Çözümler",
+  desc: "Barken Solar, işletmeler için enerji verimliliğini artıran, uzun ömürlü ve sürdürülebilir sistemler geliştirir.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
-      icon: <FaceSmileIcon />,
-    },
-    {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Kurumsal Enerji Analizi",
+      desc: "İşletmenize özel enerji verimliliği raporu ve sistem tasarımı.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
-      icon: <CursorArrowRaysIcon />,
+      title: "Profesyonel Kurulum",
+      desc: "Alanında uzman mühendis ekibimizle projelerinizi anahtar teslim yönetiyoruz.",
+      icon: <DevicePhoneMobileIcon />,
+    },
+    {
+      title: "Uzaktan İzleme & Bakım",
+      desc: "Tüm sistem performansını bulut tabanlı takip panelimizden izleyin.",
+      icon: <SunIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Sürdürülebilirlikte Stratejik Ortağınız",
+  desc: "Barken Solar, kurumların karbon ayak izini azaltırken maliyet avantajı sağlar. Güneş enerjisini geleceğinize yatırım haline getirin.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
-      icon: <DevicePhoneMobileIcon />,
-    },
-    {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Uzun Ömürlü Sistemler",
+      desc: "Yüksek verimli panellerle 25 yıla kadar performans garantisi.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
-      icon: <SunIcon />,
+      title: "Teknik Servis & Garanti",
+      desc: "Tüm sistemlerimiz garanti kapsamında ve anlık müdahale desteğiyle korunur.",
+      icon: <FaceSmileIcon />,
+    },
+    {
+      title: "Geleceğe Hazır Altyapı",
+      desc: "Akıllı şehir ve e-mobilite sistemleriyle entegre çalışır.",
+      icon: <CursorArrowRaysIcon />,
     },
   ],
 };
