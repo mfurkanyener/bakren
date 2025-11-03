@@ -18,7 +18,7 @@ export function Footer() {
                   className="flex items-center"
               >
                 <Image
-                    src="/img/bakrenlogo.png"
+                    src="/img/BAKRENLOGO.png"
                     alt="Barken Solar Enerji"
                     width="40"
                     height="40"
