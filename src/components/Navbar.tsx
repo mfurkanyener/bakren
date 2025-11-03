@@ -24,14 +24,13 @@ export const Navbar = () => {
           <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
               <span>
                 <Image
-                    src="/img/logo.svg"
-                    width="32"
+                    src="/img/bakrenlogo.png"
+                    width="80"
                     alt="N"
-                    height="32"
-                    className="w-8"
+                    height="80"
+                    className="w-64"
                 />
               </span>
-            <span>Bakren</span>
           </span>
             </Link>
 
