@@ -14,8 +14,8 @@ export const metadata = {
   title: "Bakren Solar Enerji",
   description: "Geleceğin enerjisi, bugünün çözümü.",
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
+    icon: "/favicon-v2.ico",
+    shortcut: "/favicon-v2.ico",
     apple: "/apple-touch-icon.png",
   },
 };
