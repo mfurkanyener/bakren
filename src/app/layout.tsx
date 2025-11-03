@@ -1,3 +1,4 @@
+///bakren/src/app/layout.tsx
 import { Inter } from "next/font/google";
 import { ThemeProvider } from "next-themes";
 import "./globals.css";
@@ -13,7 +14,9 @@ export const metadata = {
   title: "Bakren Solar Enerji",
   description: "Geleceğin enerjisi, bugünün çözümü.",
   icons: {
-    icon: "../src/favicon.ico",
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
 };
 
