@@ -11,7 +11,7 @@ export default function Services() {
                         Hizmetlerimiz
                     </h1>
                     <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                        Barken Solar Enerji olarak, yenilenebilir enerji alanında işletmenize
+                        Bakren Solar Enerji olarak, yenilenebilir enerji alanında işletmenize
                         özel çözümler sunuyoruz. Her projede; verimlilik, sürdürülebilirlik
                         ve uzun vadeli enerji bağımsızlığını hedefliyoruz.
                     </p>

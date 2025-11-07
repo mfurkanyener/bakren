@@ -13,7 +13,7 @@ export default function Blog() {
                                 Blog
                             </h1>
                             <p className="text-lg leading-relaxed mb-6">
-                                Barken Solar Enerji, yenilenebilir enerji alanında işletmelere
+                                Bakren Solar Enerji, yenilenebilir enerji alanında işletmelere
                                 özel çözümler üreten bir teknoloji firmasıdır. Amacımız;
                                 sürdürülebilir, verimli ve çevre dostu enerji sistemleriyle
                                 iş dünyasının karbon ayak izini azaltmak ve enerji maliyetlerini
@@ -38,7 +38,7 @@ export default function Blog() {
                         <div className="flex justify-center">
                             <Image
                                 src="/img/Hero.png"
-                                alt="Barken Solar Enerji"
+                                alt="Bakren Solar Enerji"
                                 width={600}
                                 height={400}
                                 className="rounded-2xl shadow-lg"

@@ -13,7 +13,7 @@ export const Hero = () => {
                 Güneşin Gücünü İşinize Taşıyoruz
               </h1>
               <p className="py-5 text-xl leading-normal text-gray-600 lg:text-xl xl:text-2xl dark:text-gray-300">
-                Barken Solar Enerji, işletmelere özel fotovoltaik sistemler ve
+                Bakren Solar Enerji, işletmelere özel fotovoltaik sistemler ve
                 sürdürülebilir enerji çözümleri sunar. Maliyetlerinizi düşürürken
                 doğaya yatırım yapın.
               </p>
@@ -40,7 +40,7 @@ export const Hero = () => {
                 width="616"
                 height="617"
                 className="object-cover rounded-xl shadow-2xl"
-                alt="Barken Solar Enerji Sistemleri"
+                alt="Bakren Solar Enerji Sistemleri"
                 loading="eager"
                 placeholder="blur"
             />
@@ -51,7 +51,7 @@ export const Hero = () => {
         <Container>
           <div className="flex flex-col justify-center mt-10">
             <div className="text-xl text-center text-cinder dark:text-mist">
-              <span className="text-flame font-semibold">Barken Solar</span>{" "}
+              <span className="text-flame font-semibold">Bakren Solar</span>{" "}
               çözüm ortaklarıyla daha güçlü.
             </div>
 

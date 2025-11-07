@@ -17,10 +17,10 @@ export default function Home() {
 
             {/* AVANTAJLAR */}
             <SectionTitle
-                preTitle="Barken Solar Enerji"
+                preTitle="Bakren Solar Enerji"
                 title="Güneşten Gücünü Alan İşletmeler İçin"
             >
-                Barken Solar Enerji, işletmelere özel fotovoltaik sistem çözümleri
+                Bakren Solar Enerji, işletmelere özel fotovoltaik sistem çözümleri
                 sunarak enerji maliyetlerini düşürür, sürdürülebilir bir geleceğe katkı
                 sağlar. Güneşten aldığınız gücü verimliliğe dönüştürün.
             </SectionTitle>

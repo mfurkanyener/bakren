@@ -18,8 +18,8 @@ export function Footer() {
                   className="flex items-center"
               >
                 <Image
-                    src="/img/BAKRENLOGO.png"
-                    alt="Barken Solar Enerji"
+                    src="/img/bakrenLogo.svg"
+                    alt="Bakren Solar Enerji"
                     width="40"
                     height="40"
                     className="w-40"
@@ -27,7 +27,7 @@ export function Footer() {
               </Link>
 
               <p className="max-w-md mt-4 text-gray-600 dark:text-gray-400 leading-relaxed">
-                Barken Solar Enerji, işletmelere özel fotovoltaik sistemler ve
+                Bakren Solar Enerji, işletmelere özel fotovoltaik sistemler ve
                 sürdürülebilir enerji çözümleri sunar. Enerjinizi doğaya zarar
                 vermeden üretin, geleceğe yatırım yapın.
               </p>
@@ -60,8 +60,9 @@ export function Footer() {
                 {legal.map((item, index) => (
                     <Link
                         key={index}
-                        href="/"
-                        className="w-full px-4 py-2 text-gray-600 rounded-md dark:text-gray-300 hover:text-flame focus:text-solarGold focus:bg-gray-100 dark:focus:bg-trueGray-700 transition duration-300"
+                        href="/kvkk"
+
+                  className="w-full px-4 py-2 text-gray-600 rounded-md dark:text-gray-300 hover:text-flame focus:text-solarGold focus:bg-gray-100 dark:focus:bg-trueGray-700 transition duration-300"
                     >
                       {item}
                     </Link>
@@ -93,7 +94,7 @@ export function Footer() {
 
           {/* COPYRIGHT */}
           <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
-            © {new Date().getFullYear()} Barken Solar Enerji. Tüm hakları saklıdır. <br />
+            © {new Date().getFullYear()} Bakren Solar Enerji. Tüm hakları saklıdır. <br />
             Created by <span className="text-flame dark:text-solarGold">Furkan Yener</span>
           </div>
         </Container>

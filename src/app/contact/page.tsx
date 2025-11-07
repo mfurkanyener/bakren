@@ -1,5 +1,4 @@
 import { Container } from "@/components/Container";
-import Image from "next/image";
 
 export default function Contact() {
     return (
@@ -11,7 +10,7 @@ export default function Contact() {
                         Bizimle İletişime Geçin
                     </h1>
                     <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                        Barken Solar Enerji olarak, işletmeniz için en uygun güneş enerjisi
+                        Bakren Solar Enerji olarak, işletmeniz için en uygun güneş enerjisi
                         çözümlerini sunmak için buradayız. Sorularınız, teklif talepleriniz
                         veya proje danışmanlığı için bize ulaşabilirsiniz.
                     </p>
@@ -102,7 +101,7 @@ export default function Contact() {
                             <p className="text-lg leading-relaxed">
                                 <strong>Adres:</strong> Güneş Sokak İzmir<br />
                                 <strong>Telefon:</strong> +90 (312) 000 00 00<br />
-                                <strong>E-posta:</strong> info@barkensolar.com
+                                <strong>E-posta:</strong> info@bakren.com
                             </p>
                         </div>
 

@@ -13,12 +13,12 @@ export const Cta = () => {
             Hemen formu doldurun uzman ekiplerimiz size özel çözümlerle size dönüş yapalım.
           </p>
         </div>
-        <div className="flex-shrink-0 w-full text-center lg:w-auto">
+        <div className="box flex-shrink-0 w-full text-center lg:w-auto">
           <a
             href="https://www.bakren.com"
             target="_blank"
             rel="noopener"
-            className="inline-block py-3 mx-auto text-lg font-medium text-center text-indigo-600 bg-white rounded-md px-7 lg:px-10 lg:py-5 "
+            className="plane inline-block py-3 mx-auto text-lg font-medium text-center text-indigo-600 bg-white rounded-md px-7 lg:px-10 lg:py-5 "
           >
             Teklif Al
           </a>

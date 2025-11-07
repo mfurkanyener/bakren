@@ -12,7 +12,7 @@ import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
   title: "Güneş Enerjisinde Güvenilir Çözümler",
-  desc: "Barken Solar, işletmeler için enerji verimliliğini artıran, uzun ömürlü ve sürdürülebilir sistemler geliştirir.",
+  desc: "Bakren Solar, işletmeler için enerji verimliliğini artıran, uzun ömürlü ve sürdürülebilir sistemler geliştirir.",
   image: benefitOneImg,
   bullets: [
     {
@@ -35,7 +35,7 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "Sürdürülebilirlikte Stratejik Ortağınız",
-  desc: "Barken Solar, kurumların karbon ayak izini azaltırken maliyet avantajı sağlar. Güneş enerjisini geleceğinize yatırım haline getirin.",
+  desc: "Bakren Solar, kurumların karbon ayak izini azaltırken maliyet avantajı sağlar. Güneş enerjisini geleceğinize yatırım haline getirin.",
   image: benefitTwoImg,
   bullets: [
     {
